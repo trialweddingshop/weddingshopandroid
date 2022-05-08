@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270789838249",
+    "project_id": "weddingshopandroid",
+    "storage_bucket": "weddingshopandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270789838249:android:8e64e7bf5e07830c0830b8",
+        "android_client_info": {
+          "package_name": "com.example.weddingshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270789838249-qht52gt0cpt4c7bgbpdvh0baba2u0br6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeI4WJN1rvjfUG5k1Ss5LccbH4lfFL4fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270789838249-qht52gt0cpt4c7bgbpdvh0baba2u0br6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
